@@ -1,0 +1,14 @@
+/Users/burins/Desktop/MAAGroup/MAAGroup/bin/Debug/net8.0/MAAGroup
+/Users/burins/Desktop/MAAGroup/MAAGroup/bin/Debug/net8.0/MAAGroup.deps.json
+/Users/burins/Desktop/MAAGroup/MAAGroup/bin/Debug/net8.0/MAAGroup.runtimeconfig.json
+/Users/burins/Desktop/MAAGroup/MAAGroup/bin/Debug/net8.0/MAAGroup.dll
+/Users/burins/Desktop/MAAGroup/MAAGroup/bin/Debug/net8.0/MAAGroup.pdb
+/Users/burins/Desktop/MAAGroup/MAAGroup/obj/Debug/net8.0/MAAGroup.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burins/Desktop/MAAGroup/MAAGroup/obj/Debug/net8.0/MAAGroup.AssemblyInfoInputs.cache
+/Users/burins/Desktop/MAAGroup/MAAGroup/obj/Debug/net8.0/MAAGroup.AssemblyInfo.cs
+/Users/burins/Desktop/MAAGroup/MAAGroup/obj/Debug/net8.0/MAAGroup.csproj.CoreCompileInputs.cache
+/Users/burins/Desktop/MAAGroup/MAAGroup/obj/Debug/net8.0/MAAGroup.dll
+/Users/burins/Desktop/MAAGroup/MAAGroup/obj/Debug/net8.0/refint/MAAGroup.dll
+/Users/burins/Desktop/MAAGroup/MAAGroup/obj/Debug/net8.0/MAAGroup.pdb
+/Users/burins/Desktop/MAAGroup/MAAGroup/obj/Debug/net8.0/MAAGroup.genruntimeconfig.cache
+/Users/burins/Desktop/MAAGroup/MAAGroup/obj/Debug/net8.0/ref/MAAGroup.dll
